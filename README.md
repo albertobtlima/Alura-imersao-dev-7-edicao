@@ -4,6 +4,12 @@ Este curso faz parte da semana da imersão da **Alura Cursos** que foi realizada
 
 A 7ª Imersão Dev é focada em JavaScript, a imersão possui 5 aulas onde em cada uma foi desenvolvido um projeto diferente.
 
+**Tecnologias usadas**:
+
+* HTML
+* CSS
+* JavaScript
+
 **Instrutores**: Guilherme Lima, Paulo Silveira e Rafaella Ballerini
 
 ---
